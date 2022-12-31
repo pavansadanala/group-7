@@ -1,6 +1,6 @@
 # Enhancing the wifi indoor localisation using machine learning algorithm
 ## Getting started
-Here, we used eight machine learning algorithms to analyze the performance. We used ANN, KNN, Decision tree, Naive Bayesian, ELM, SVM for this project. Additional we use Logistc Regression, Random Forest algorithms to analyze more the performance. 
+Here, we used eight machine learning algorithms to enhance the performance. We used ANN, KNN, Decision tree, Naive Bayesian, ELM, SVM for this project. Additional we use Logistic Regression, Random Forest algorithms to analyze the performance enhancement. 
 
 ### Dataset
 wifi_localization.csv file is the dataset for this project.
